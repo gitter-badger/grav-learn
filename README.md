@@ -1,5 +1,7 @@
 # Grav Documentation
 
+[![Join the chat at https://gitter.im/adi8i/grav-learn](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adi8i/grav-learn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the repository for all the functionality of http://learn.getgrav.org. It is what we call a **skeleton** in that it's drop-in replacment for the `user/` folder in Grav. 
 
 To install your own copy of the learn site, simply follow these steps:
